@@ -16,4 +16,4 @@
 ## 🚀 Usage
 Paste into your executor:
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ТВОЙ_НИК/vd-hub/main/hub.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Werton/vd-hub/main/hub.lua"))()
